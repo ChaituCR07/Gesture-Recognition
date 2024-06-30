@@ -2,3 +2,4 @@ opencv-python
 tensorflow
 numpy
 mediapipe
+streamlit==1.26.0
