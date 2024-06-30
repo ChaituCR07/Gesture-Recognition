@@ -1,7 +1,7 @@
-!pip install opencv-python
-!pip install numpy
-!pip install mediapipe
-!pip install tensorflow
+pip install opencv-python
+pip install numpy
+pip install mediapipe
+pip install tensorflow
 
 # Step 1: Import Libraries
 import cv2
